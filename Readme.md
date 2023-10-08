@@ -18,8 +18,5 @@ CUIで動く簡易的な電卓です。
     + Ubuntu 20.04 LTS(WSL) + gcc
 
 ## ビルド方法
-srcフォルダ内で
-```
-make
-```
-してください。
+GitHub Actionsのワークフローを御覧ください。
+
